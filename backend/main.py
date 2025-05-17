@@ -4,7 +4,7 @@ from fastapi import FastAPI, File, UploadFile, Form
 from fastapi.responses import FileResponse
 import os
 import shutil
-from vocal_remover import process_song
+from backend.vocal_remover import process_song
 
 # ✅ Define FastAPI app only once (no repeated imports)
 app = FastAPI()
