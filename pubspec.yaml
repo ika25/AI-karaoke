@@ -1,8 +1,0 @@
-dependencies:
-  flutter:
-    sdk: flutter
-  http: ^0.13.6
-  file_picker: ^6.1.1
-  path_provider: ^2.1.1
-  permission_handler: ^11.3.0
-  open_filex: ^4.0.2
